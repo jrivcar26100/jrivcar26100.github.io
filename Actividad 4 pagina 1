@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<link type="text/css" rel="stylesheet" href="style.css" />
+	<meta charset="utf-8" />
+	<title> Ejercicio 4 - Apl. Web </title>
+</head>
+
+<body>
+
+	<hr/>
+	
+	<header><h3><p align="center">Listado NO enumerado de grupos musicales</p></h3></header>
+	
+	<ul>
+		<li>SFDK</li>
+		<li>Twenty One Pilots</li>
+		<li>Kaze</li>
+	</ul>
+	
+	<hr/>
+	
+	<header><h3><p align="center">Listado enumerado de webs que visito regularmente</p></h3></header>
+	
+	<ol>
+		<li>YouTube</li>
+		<li>Twitch</li>
+		<li>Amazon</li>
+	</ol>
+	
+	<hr/>
+	
+	<header><h3><p align="center">Listado de definiciones</p></h3></header>
+	
+	<dl>
+		<dt>Smartphone</dt>
+		<dd>Teléfono celular con pantalla táctil, que permite al usuario conectarse a internet, gestionar cuentas de correo electrónico e instalar otras aplicaciones y recursos a modo de pequeño computador</dd>
+		<dt>Gamer</dt>
+		<dd>Persona que juega habitualmente a videojuegos, especialmente si le gustan mucho y les dedica mucho tiempo.</dd>
+	</dl>	
+	
+	<hr/>
+	
+	<nav>
+	<footer>
+			<p>&copy; Creado por Jairo Rivera Caro 2021. </p>
+			<p><a href="file:///home/usuario/Desktop/P%C3%A1gina%201">Enlace para volver a la página anterior</a></p>
+	</footer>
+	</nav>
+	
+</body>
+</html>
