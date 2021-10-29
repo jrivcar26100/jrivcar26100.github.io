@@ -1,0 +1,27 @@
+<style>
+	body {
+		background-color: #e8e8e8;
+	}
+
+	nav {
+		background-color: #e8e8e5;
+		padding: 5em;
+	}
+
+	section {
+		background-color: #e8e8e5;
+		padding: 5em;
+	}
+
+	.flex {
+		display: flex;
+	}
+
+	.flex1 {
+		display: flex;
+	}
+
+	.flex2 {
+		display: flex;
+	}
+</style>
