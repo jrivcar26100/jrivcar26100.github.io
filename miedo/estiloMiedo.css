@@ -1,0 +1,51 @@
+    body {
+        background-image: url("imagenes/Halloween.jpg");
+        background-size: 100%;
+    }
+
+    .paginaCompleta header{
+        text-align: center;
+        color: white;
+        border: 100%;
+    }
+
+    .Cuadro_anuncios {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin: 2em;
+    }
+
+    .Cuadro_anuncios article:hover {
+        background-image: url("imagenes/fondo-negro-fantasmas.jpg");
+    }
+
+    .Anuncio {
+        border: 1px solid red;
+        box-sizing: border-box;
+        align-content: center;
+        margin: 2em;
+        flex-grow: 1;
+        text-align: center;
+        width: 10%;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .cabezaAnuncio img{
+        width:300px;
+        height:300px;
+        border-radius:150px;
+        flex-grow: 1;
+    }
+
+    .textoAnuncio {
+        text-align: center;
+        /*width: 300px;*/
+        color: white;
+        flex-grow: 1;
+    }
